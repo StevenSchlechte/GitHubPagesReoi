@@ -7,7 +7,7 @@ def test_fib_10(benchmark):
 def test_fib_20(benchmark):
     benchmark(fib, 20)
 
-def test_fib_10(benchmark):
+def test_fib_30(benchmark):
     benchmark(fib, 30)
 
 
